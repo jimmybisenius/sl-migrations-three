@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://singlelink.co">Singlelink</a> is the open-source Linktree alternative.
+    <a href="https://singlelink.co">Singlelink</a> is the open-source Linktree alternative
 </h3>
 <p align="center">
   <a href="https://github.com/Neutron-Creative/Singlelink/actions/workflows/build-lint.yml">
